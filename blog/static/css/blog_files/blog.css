@@ -1,5 +1,5 @@
 .page-header {
-    background-color: rgba(247, 175, 123, 0.493);
+    background-color: rgba(247, 193, 123, 0.493);
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 
@@ -37,9 +37,9 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #da1515;
+    color: #da151598;
     float: right;
-    font-size: 26pt;
+    font-size: 16pt;
     margin-right: 20px;
 }
 
@@ -47,3 +47,7 @@ h1, h2, h3, h4 {
 BODY {
     padding-left: 15px;
 }
+.comment {
+    margin: 20px 0px 20px 20px;
+}
+
